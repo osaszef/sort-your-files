@@ -1,0 +1,32 @@
+{
+    "baseDirectory": "d:/",
+    "image": [
+        {
+            "enabled": 1,
+            "imageDirectory": "./images",
+            "imageExtension": [
+                "jpg",
+                "jpeg",
+                "gif",
+                "png",
+                "tiff",
+                "psd",
+                "raw"
+            ]
+        }
+    ],
+
+    "video": [
+        {
+            "enabled": 1,
+            "videoDirectory": "./video",
+            "videoExtension": [
+                "mp4",
+                "ogg",
+                "webm",
+                "mkv",
+                "flv"
+            ]
+        }
+    ]
+}
